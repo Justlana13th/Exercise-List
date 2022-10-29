@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "todo": "Makan"
+    },
+    {
+      "id": 3,
+      "todo": "Tidur"
+    },
+    {
+      "todo": "Olahraga",
+      "id": 4
+    },
+    {
+      "todo": "Belajar",
+      "id": 5
+    },
+    {
+      "todo": "Main Bola",
+      "id": 6
+    },
+    {
+      "todo": "Baca Komik",
+      "id": 7
+    }
+  ]
+}
